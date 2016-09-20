@@ -76,6 +76,8 @@ Callback for receiving push notification:
         }
         
   Configure the above REST API using Postman rest client.
+  <a href="http://imgur.com/oL8fkcn"><img src="http://i.imgur.com/oL8fkcn.png" title="source: imgur.com" /></a>
+  <a href="http://imgur.com/XQQfDSX"><img src="http://i.imgur.com/XQQfDSX.png" title="source: imgur.com" /></a>
   
 <b>How it works</b>
 <i>Send a push notification to a single device or topic.</i>
