@@ -1,0 +1,19 @@
+//POST: https://fcm.googleapis.com/fcm/send 
+//HEADER: Content-Type: application/json 
+//HEADER: Authorization: key=AIzaSyAMMh0mdVIRXPcBejyatAtdZgmklepwoNs
+{
+  "notification":{
+    "title":"Notification title", 
+    "body":"Notification body", 
+    "sound":"default", 
+    "click_action":"FCM_PLUGIN_ACTIVITY",  
+    "icon":"fcm_push_icon"  
+  },
+  "data":{
+    "param1":"value1", 
+    "param2":"value2"
+  },
+    "to":"eRImo7algBM:APA91bHSxSOdmgsOi9su_XytEtCbei0Zi0ODgm76VHvbqeb-WPoZcLyNVpnaLWPLw7U1u93hO0ZhtBxn_hVGxPAwxXXfc-yNy6_kkfzUdTpcI2QPB0vzJBmOFzX3RRZ15wmFkCUFtyhc", 
+    "priority":"high", 
+    "restricted_package_name":"com.zensar.fcm" 
+}

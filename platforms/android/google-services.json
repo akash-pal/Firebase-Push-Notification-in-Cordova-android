@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "866956325515",
+    "firebase_url": "https://fcm-notification-test-e5482.firebaseio.com",
+    "project_id": "fcm-notification-test-e5482",
+    "storage_bucket": "fcm-notification-test-e5482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866956325515:android:7bffa79dadc1de54",
+        "android_client_info": {
+          "package_name": "com.zensar.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866956325515-92b4i2cojf5no8sumoifb25u5rb29hmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeGsfO_juI8kWuVtiXED1SOxrGatSPdLU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
