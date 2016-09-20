@@ -62,7 +62,7 @@ var app = {
               alert( JSON.stringify(data) );
             }else{
               //Notification was received in foreground. Maybe the user needs to be notified.
-              alert( JSON.stringify(data) );
+              //alert( JSON.stringify(data) );
             }
           },
           function(msg){
