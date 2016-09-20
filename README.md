@@ -1,5 +1,5 @@
-# Firebase-Push-Notification-in-Cordova-
-Firebase Push Notification in Cordova 
+# Firebase-Push-Notification-in-Cordova-android
+Firebase Push Notification in Cordova Android
 
 
 Cordova Firebase Push Notification Plugin
