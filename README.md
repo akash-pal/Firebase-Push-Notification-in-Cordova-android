@@ -77,16 +77,16 @@ Callback for receiving push notification:
         
   Configure the above REST API using Postman rest client.
   
-How it works
-Send a push notification to a single device or topic.
+<b>How it works</b>
+<i>Send a push notification to a single device or topic.</i>
 
 1.a Application is in foreground:
-The user receives the notification data in the JavaScript callback without notification alert message (this is the normal behaviour of mobile push notifications).
+  The user receives the notification data in the JavaScript callback without notification alert message (this is the normal behaviour of mobile push notifications).
 
 1.b Application is in background:
-The user receives the notification message in its device notification bar.
-The user taps the notification and the application is opened.
-The user receives the notification data in the JavaScript callback'.
+  The user receives the notification message in its device notification bar.
+  The user taps the notification and the application is opened.
+  The user receives the notification data in the JavaScript callback'.
   
 
   
